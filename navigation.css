@@ -1,0 +1,11 @@
+	.navbar{
+			background-color:skyblue;
+			padding: 1%;
+			text-align:center;
+		}
+		.navbar a{
+			margin-right: 5%;
+			text-decoration: none;
+			color: white;
+		}
+	
